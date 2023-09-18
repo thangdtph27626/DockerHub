@@ -77,8 +77,7 @@ Sau khi chạy lệnh trên theo ảnh chụp màn hình bên dưới, nó sẽ 
 ![image](https://github.com/thangdtph27626/DockerHub/assets/109157942/dbd3f65a-6664-4d56-9fcf-270386490cba)
 
 
-## Tìm kiếm Docker: Ví dụ
-
+## Tìm kiếm Docker
 Để được trợ giúp tìm kiếm Docker, hãy nhập lệnh bên dưới:
 
 > docker search --help
